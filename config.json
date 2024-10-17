@@ -1,0 +1,9 @@
+{
+  "uri": "http://10.0.64.108:4000",
+  "systemid": "JP044",
+  "cell": 2,
+  "rows": 5,
+  "cols": 4,
+  "datadir_ordergroup": "./data/ordergroup",
+  "datadir_preset": "./data/preset"
+}
